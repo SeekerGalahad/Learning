@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8444b4e2-5da9-4ada-ac3a-bb545d4162c5" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.18.4" />
+      </map>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="WordCountDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kafka_learn/wordcount/WordCountDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="27" column="26" selection-start-line="5" selection-start-column="2" selection-end-line="27" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordCountProcessorDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kafka_learn/WordCountProcessorDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="703">
+              <caret line="44" column="49" selection-start-line="44" selection-start-column="49" selection-end-line="44" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractQueuedSynchronizer.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/program files/Java/jdk1.8.0_112/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4521">
+              <caret line="509" column="35" lean-forward="true" selection-start-line="509" selection-start-column="35" selection-end-line="509" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReadWriteLockDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/concurrentTest/ReadWriteLockDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="41" column="33" lean-forward="true" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CountDownLatch.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/program files/Java/jdk1.8.0_112/src.zip!/java/util/concurrent/CountDownLatch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2413">
+              <caret line="160" column="60" selection-start-line="160" selection-start-column="60" selection-end-line="160" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CarProducer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/concurrentTest/countdownlatch_test/CarProducer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CyclicBarrier.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/program files/Java/jdk1.8.0_112/src.zip!/java/util/concurrent/CyclicBarrier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1976">
+              <caret line="138" column="13" selection-start-line="138" selection-start-column="13" selection-end-line="138" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConditionTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/concurrentTest/ConditionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObserveDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern_learn/observe/ObserveDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PipeDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kafka_learn/pipe/PipeDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="7" selection-start-line="4" selection-start-column="5" selection-end-line="17" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>System.out.println</find>
+      <find>table</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>logger.info</replace>
+      <replace>Map</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/wagic/jdk8_learn/JmxTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kafka_learn/JavaKafkaConsumerHighAPITest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/ElasticsearchOperator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interview/learn/SingletonClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interview/learn/Find.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interview/learn/ReplaceBlank.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interview/learn/PrintListReverse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interview/learn/BinaryTreeNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interview/learn/ConstructBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wagic/code/learn/ConStructQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wagic/code/learn/StackForQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wagic/code/learn/ArrayFind.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wagic/code/learn/ReplaceBlankInString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wagic/code/learn/ConstructBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wagic/code/learn/ConstructStackAsQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wagic/code/learn/ArrayMinNum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_patter_learn/Dao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_patter_learn/DaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_patter_learn/LogInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_patter_learn/LogDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_patter_learn/DynamicProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_patter_learn/CglibProxyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_patter_learn/DynamicProxyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_patter_learn/Proxy/DynamicProxyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_patter_learn/Proxy/ProxyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wagic/jdk8_learn/Item.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wagic/jdk8_learn/StreamTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wagic/jdk8_learn/BigDecimalUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern_learn/observe/ObserveDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GC_test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SafeBox.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GuavaTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wagic/Wait.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ReadLockDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ReadWriteLockDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ConditionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wagic/SafeBox.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spark_stream_learn/sparkStreamTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TransientTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spark_stream_learn/SparkStreamTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/netty/EchoClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/netty/EchoClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/netty/EchoServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/netty/EchoServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/apache/kafka/streams/examples/pipe/PipeDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kafka_learn/JavaKafkaConsumerHighAPI.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/kafka_learn/pipe/PipeDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kafka_learn/wordcount/WordCountDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kafka_learn/WordCountProcessorDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/concurrentTest/countdownlatch_test/CarProducer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="printErrorStackTraces" value="true" />
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="width" value="1935" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrentTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrentTest" type="462c0819:PsiDirectoryNode" />
+              <item name="countdownlatch_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="NBKnowledgePane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="AbstractQueu&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/lib" />
+    <property name="last_opened_file_path" value="D:/Newland_Bomc/bomc_fj/AlarmLogAnalysis" />
+    <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\My Learning space\Project\Learning" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\My Learning space\Project\Learning\lib" />
+      <recent name="D:\My Learning space\Project\Learning\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CarProducer">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="CarProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrentTest.countdownlatch_test.CarProducer" />
+      <module name="Learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concurrentTest.countdownlatch_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="EchoClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="netty.EchoClient" />
+      <module name="Learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="netty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ObserveDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_pattern_learn.observe.ObserveDemo" />
+      <module name="Learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="design_pattern_learn.observe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="WordCountDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kafka_learn.wordcount.WordCountDemo" />
+      <module name="Learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kafka_learn.wordcount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="WordCountProcessorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kafka_learn.WordCountProcessorDemo" />
+      <module name="Learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kafka_learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.EchoClient" />
+      <item itemvalue="Application.WordCountProcessorDemo" />
+      <item itemvalue="Application.WordCountDemo" />
+      <item itemvalue="Application.ObserveDemo" />
+      <item itemvalue="Application.CarProducer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CarProducer" />
+        <item itemvalue="Application.ObserveDemo" />
+        <item itemvalue="Application.WordCountDemo" />
+        <item itemvalue="Application.WordCountProcessorDemo" />
+        <item itemvalue="Application.EchoClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Galahad\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8444b4e2-5da9-4ada-ac3a-bb545d4162c5" name="Default" comment="" />
+      <created>1509200044031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509200044031</updated>
+      <workItem from="1509200047695" duration="2468000" />
+      <workItem from="1509205729256" duration="1667000" />
+      <workItem from="1509252816873" duration="3984000" />
+      <workItem from="1509323716181" duration="190000" />
+      <workItem from="1509367436462" duration="480000" />
+      <workItem from="1509461242534" duration="609000" />
+      <workItem from="1509496886092" duration="861000" />
+      <workItem from="1509542672863" duration="1937000" />
+      <workItem from="1510061828303" duration="2393000" />
+      <workItem from="1510742899401" duration="985000" />
+      <workItem from="1510831381035" duration="599000" />
+      <workItem from="1510879567695" duration="1339000" />
+      <workItem from="1510932545819" duration="2966000" />
+      <workItem from="1510976246347" duration="958000" />
+      <workItem from="1510980967637" duration="624000" />
+      <workItem from="1510990025106" duration="384000" />
+      <workItem from="1510994515338" duration="691000" />
+      <workItem from="1511022782986" duration="700000" />
+      <workItem from="1511092543814" duration="606000" />
+      <workItem from="1511165941271" duration="442000" />
+      <workItem from="1520653533062" duration="598000" />
+      <workItem from="1520692283832" duration="2027000" />
+      <workItem from="1520735666235" duration="11229000" />
+      <workItem from="1520816045067" duration="1202000" />
+      <workItem from="1520848806023" duration="1197000" />
+      <workItem from="1521118483301" duration="3563000" />
+      <workItem from="1521126499938" duration="2687000" />
+      <workItem from="1521165850157" duration="1227000" />
+      <workItem from="1521210922696" duration="1298000" />
+      <workItem from="1521251848707" duration="8297000" />
+      <workItem from="1521287085314" duration="3374000" />
+      <workItem from="1521345077817" duration="1203000" />
+      <workItem from="1521415166925" duration="1496000" />
+      <workItem from="1521506246506" duration="588000" />
+      <workItem from="1521589808774" duration="2515000" />
+      <workItem from="1521677255003" duration="734000" />
+      <workItem from="1521683654148" duration="597000" />
+      <workItem from="1521696321964" duration="1191000" />
+      <workItem from="1521729327768" duration="581000" />
+      <workItem from="1521765425243" duration="1196000" />
+      <workItem from="1521804692122" duration="592000" />
+      <workItem from="1521807117454" duration="406000" />
+      <workItem from="1521813709131" duration="1256000" />
+      <workItem from="1521852856310" duration="6272000" />
+      <workItem from="1521890825832" duration="3064000" />
+      <workItem from="1521963675334" duration="10490000" />
+      <workItem from="1522024452082" duration="5804000" />
+      <workItem from="1522067765976" duration="590000" />
+      <workItem from="1522110219286" duration="576000" />
+      <workItem from="1522374411783" duration="1952000" />
+      <workItem from="1522594698067" duration="478000" />
+      <workItem from="1522629262830" duration="593000" />
+      <workItem from="1522635281688" duration="64000" />
+      <workItem from="1522677275542" duration="217000" />
+      <workItem from="1522739105975" duration="1073000" />
+      <workItem from="1522760890875" duration="598000" />
+      <workItem from="1522801763782" duration="2743000" />
+      <workItem from="1522837696115" duration="611000" />
+      <workItem from="1522921286789" duration="597000" />
+      <workItem from="1523099481258" duration="8944000" />
+      <workItem from="1523157422361" duration="1929000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="JDK8Test_lambdaTest - 2017.10.28 at 22h 26m 28s.xml">
+      <configuration name="JDK8Test.lambdaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JDK8Test_lambdaTest - 2017.10.29 at 01h 10m 02s.xml">
+      <configuration name="JDK8Test.lambdaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JDK8Test_lambdaTest - 2017.10.29 at 14h 30m 19s.xml">
+      <configuration name="JDK8Test.lambdaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JDK8Test_lambdaTest - 2017.10.29 at 14h 35m 51s.xml">
+      <configuration name="JDK8Test.lambdaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JDK8Test_lambdaTest - 2017.10.29 at 14h 36m 11s.xml">
+      <configuration name="JDK8Test.lambdaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JDK8Test_personTest - 2017.10.29 at 01h 04m 40s.xml">
+      <configuration name="JDK8Test.personTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JDK8Test_personTest - 2017.10.29 at 01h 05m 06s.xml">
+      <configuration name="JDK8Test.personTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="120532000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="0" weight="0.32955974" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32704404" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32988003" />
+      <window_info anchor="bottom" id="Database Changes" order="21" />
+      <window_info anchor="right" id="Designer" order="6" />
+      <window_info anchor="bottom" id="Tail" order="2" />
+      <window_info anchor="right" id="Database" order="5" weight="0.23135547" />
+      <window_info anchor="right" id="Structure" order="8" side_tool="true" weight="0.24931954" />
+      <window_info anchor="right" id="News Feed" order="10" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.39962825" />
+      <window_info anchor="bottom" id="Java2SQL" order="16" weight="0.32961586" />
+      <window_info anchor="bottom" id="TODO" order="20" weight="0.32936978" />
+      <window_info id="Palette&#9;" order="1" />
+      <window_info anchor="bottom" id="Java Enterprise" order="22" />
+      <window_info anchor="bottom" id="Breakpoints Manager" order="17" weight="0.32961586" />
+      <window_info anchor="bottom" id="Version Control" order="15" show_stripe_button="false" weight="0.32972324" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.39962825" />
+      <window_info anchor="bottom" id="CheckStyle" order="1" weight="0.32961586" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.32830188" />
+      <window_info anchor="bottom" id="Code comment" order="21" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.44857496" visible="true" weight="0.1851253" />
+      <window_info anchor="bottom" id="Reviews" order="21" />
+      <window_info anchor="right" id="Navigate" order="9" show_stripe_button="false" weight="0.32901832" />
+      <window_info anchor="right" id="SciView" order="11" />
+      <window_info id="Favorites" order="3" sideWeight="0.55142504" side_tool="true" weight="0.23786408" />
+      <window_info anchor="bottom" id="SVN Repositories" order="9" weight="0.5111524" />
+      <window_info anchor="bottom" id="AllProjects" order="12" weight="0.32891566" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info anchor="right" x="89" y="89" width="1742" height="842" id="Documentation" order="10" type="FLOATING" />
+      <window_info anchor="bottom" id="DBOutput" order="19" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info id="DBHelper" order="5" weight="0.32955772" />
+      <window_info anchor="bottom" id="Database Console" order="18" weight="0.5861635" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32713756" />
+      <window_info anchor="bottom" id="Spring" order="13" weight="0.32972324" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.3273165" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/program files/Java/jdk1.8.0_112/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2299">
+          <caret line="121" column="69" lean-forward="true" selection-start-line="121" selection-start-column="69" selection-end-line="121" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spring-core-4.3.12.RELEASE.jar!/org/springframework/cglib/proxy/MethodInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern_learn/Proxy/Dao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern_learn/Proxy/DaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern_learn/Proxy/LogDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program files/Java/jdk1.8.0_112/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern_learn/Proxy/LogInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern_learn/Proxy/DynamicProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39">
+          <caret line="19" column="64" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern_learn/Proxy/DynamicProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program files/Java/jdk1.8.0_112/src.zip!/java/lang/reflect/AccessibleObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="166" column="18" selection-start-line="166" selection-start-column="18" selection-end-line="166" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program files/Java/jdk1.8.0_112/jre/lib/rt.jar!/sun/reflect/MethodAccessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program files/Java/jdk1.8.0_112/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="497" column="23" lean-forward="true" selection-start-line="497" selection-start-column="23" selection-end-line="497" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern_learn/Proxy/ProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program files/Java/jdk1.8.0_112/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="712" column="34" selection-start-line="712" selection-start-column="34" selection-end-line="712" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program files/Java/jdk1.8.0_112/jre/lib/rt.jar!/sun/reflect/Reflection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-384">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program files/Java/jdk1.8.0_112/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wagic/jdk8_learn/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program files/Java/jdk1.8.0_112/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21831">
+          <caret line="1175" column="30" selection-start-line="1175" selection-start-column="30" selection-end-line="1175" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program files/Java/jdk1.8.0_112/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program files/Java/jdk1.8.0_112/src.zip!/java/util/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program files/Java/jdk1.8.0_112/src.zip!/java/util/Observable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2033">
+          <caret line="136" column="23" selection-start-line="136" selection-start-column="23" selection-end-line="136" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program files/Java/jdk1.8.0_112/src.zip!/java/lang/Runtime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5912">
+          <caret line="60" column="55" lean-forward="true" selection-start-line="60" selection-start-column="55" selection-end-line="60" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wagic/jdk8_learn/StreamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="67" column="18" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GC_test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wagic/code/learn/GuavaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wagic/SafeBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spark_stream_learn/SparkStreamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="19" column="29" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TransientTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/BigDecimalUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.17.Final/netty-all-4.1.17.Final.jar!/io/netty/util/ReferenceCountUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/netty/EchoClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.17.Final/netty-all-4.1.17.Final.jar!/io/netty/channel/ChannelOption.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="44" column="54" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/netty/EchoServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/netty/EchoServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="48" column="75" selection-start-line="48" selection-start-column="52" selection-end-line="48" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kafka_learn/pageview/PageViewUntypedDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/kafka_learn/wordcount/WordCountProcessorDemo.java" />
+    <entry file="file://$PROJECT_DIR$/JavaKafkaConsumerHighAPITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/netty/EchoClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/concurrentTest/Wait.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern_learn/Proxy/CglibProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern_learn/observe/ObserveDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program files/Java/jdk1.8.0_112/src.zip!/java/util/concurrent/CyclicBarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1976">
+          <caret line="138" column="13" selection-start-line="138" selection-start-column="13" selection-end-line="138" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/concurrentTest/ConditionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaKafkaConsumerHighAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kafka_learn/pipe/PipeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="7" selection-start-line="4" selection-start-column="5" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kafka_learn/WordCountProcessorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="44" column="49" selection-start-line="44" selection-start-column="49" selection-end-line="44" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kafka_learn/wordcount/WordCountDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="26" selection-start-line="5" selection-start-column="2" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/concurrentTest/countdownlatch_test/CarProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program files/Java/jdk1.8.0_112/src.zip!/java/util/concurrent/CountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2413">
+          <caret line="160" column="60" selection-start-line="160" selection-start-column="60" selection-end-line="160" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program files/Java/jdk1.8.0_112/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4521">
+          <caret line="509" column="35" lean-forward="true" selection-start-line="509" selection-start-column="35" selection-end-line="509" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/concurrentTest/ReadWriteLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="41" column="33" lean-forward="true" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Learning</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib (2)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
